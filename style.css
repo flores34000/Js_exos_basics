@@ -1,0 +1,10 @@
+body{
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: rgb(109, 107, 107);
+    font-size: 30px;
+    font-family: 'Roboto', sans-serif;
+}
